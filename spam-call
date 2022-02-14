@@ -1,0 +1,5 @@
+# install
+
+$ git clone https://github.com/GALANG08/spam-call
+$ cd spam-call
+$ python spam-call.py
